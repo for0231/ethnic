@@ -2,6 +2,7 @@
     "name": "for0231/ethnic",
     "description": "The fact of belonging to a particular race.",
     "type": "library",
+    "keywords": ["nation", "ethnic"],
     "license": "MIT",
     "authors": [
         {

@@ -1,0 +1,13 @@
+{
+    "name": "for0231/ethnic",
+    "description": "The fact of belonging to a particular race.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John",
+            "email": "lijd@eabax.com"
+        }
+    ],
+    "require": {}
+}

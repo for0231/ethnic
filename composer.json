@@ -9,5 +9,20 @@
             "email": "lijd@eabax.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-4": { "For0231\\Ethnic\\": "src" }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "For0231\\Ethnic\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.x-dev"
+        }
+    }
 }
